@@ -1,0 +1,42 @@
+[
+  {
+    "directory": "src/main/resources/com/pk2d/Mycelium/Entity/MushMan/MushManIdle",
+    "ID": "Idle",
+    "frameDuration": 0.4,
+    "frameSizeFactor": 1.2,
+    "offsetX": 0,
+    "offsetY": 0,
+    "reflectX": false,
+    "reflectY": false
+  },
+    {
+      "directory": "src/main/resources/com/pk2d/Mycelium/Entity/MushMan/MushManWalkRight",
+      "ID": "WalkRight",
+      "frameDuration": 0.15,
+      "frameSizeFactor": 1.2,
+      "offsetX": 0,
+      "offsetY": 25,
+      "reflectX": false,
+      "reflectY": false
+    },
+    {
+      "directory": "src/main/resources/com/pk2d/Mycelium/Entity/MushMan/MushManWalkRight",
+      "ID": "WalkLeft",
+      "frameDuration": 0.15,
+      "frameSizeFactor": 1.2,
+      "offsetX": 0,
+      "offsetY": 25,
+      "reflectX": true,
+      "reflectY": false
+    },
+    {
+      "directory": "src/main/resources/com/pk2d/Mycelium/Entity/MushMan/Crouch",
+      "ID": "Crouch",
+      "frameDuration": 0.3,
+      "frameSizeFactor": 1.2,
+      "offsetX": 0,
+      "offsetY": 25,
+      "reflectX": false,
+      "reflectY": false
+    }
+]

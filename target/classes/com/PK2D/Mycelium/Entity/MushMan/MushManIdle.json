@@ -1,0 +1,10 @@
+{
+  "directory": "com/pk2d/Mycelium/Entity/MushMan/MushManIdle",
+  "ID": "Idle",
+  "frameDuration": 0.4,
+  "frameSizeFactor": 1.2,
+  "offsetX": 0,
+  "offsetY": 25,
+  "reflectX": false,
+  "reflectY": false
+}
