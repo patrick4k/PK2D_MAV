@@ -1,0 +1,9 @@
+<archetype>
+  <id>PK2D_MAV</id>
+  <sources>
+    <source>src/Start/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
